@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Alsprogmmng
-- 👀 I’m interested in Python , Javascript and Cibersecurity 
+- 👀 I’m interested in Python , Javascript , Cibersecurity , Hardware and Crypto. 
 - 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on Crypto and Coding Community
 - 📫 How to reach me :  alsprogrammng@gmail.com
